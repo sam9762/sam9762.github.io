@@ -6,6 +6,7 @@
 	    <title>Login form</title>
 		<style>
 		#qq{background:lightblue; color:#fff; padding:20px; float:right; width:50%; min-height:310px; border-style: ridge;}
+		#tt{background:white; color:black; padding:20px; float:right; width:50%; min-height:310px; border-style: ridge;}
 		#ss{border-style: groove;border-color: #FFFFFF; border: 1px solid #a1a1a1;background-color: lightblue;
 	min-height:30px;}
 		#rr {width:x; height:y; text-align:right;}
@@ -49,16 +50,41 @@
 	<div class="form-body pal">
 	<div class="row">
 	
-                                                            <div class="col-md-6" id = "qq">
-                                                                <div class="form-group has-success"><b>
-                                                                   Ranbow Children's Clinic<span class='require'>*</span></b>
+                                                            <div class="col-md-6" id = "tt">
+                                                                <div class="form-group has-success">
+                                                                  <div style="position: absolute; top: 0; right: 0; width: 250px; text-align:right; color:blue"  >
+    Tuesday, December 13, 2016
+  </div>
+                                                                  <h2>
+                                                                    <b>
+                                                                   Ranbow Children's Clinic
+                                                                 </b>
+                                                               </h2>
+                                                                 <p>
+                                                                  914 Main Ave<br>
+                                                                  Fort Worth, TX 070559998<br>
+                                                                  Phone: (973) 458-80000<br>
+                                                                  fax: (862) 238-8333
+                                                                </p>
+
+
 
                                                                     
                                                                 </div>
                                                             </div>
                                                             <div class="col-md-6" id = "qq">
-                                                                <div class="form-group has-success"><h1>
-                                                                    ANNABELLE TEST<span class='require'>*</span></h1>
+                                                                <div class="form-group has-success"><h1><b>
+                                                                    ANNABELLE TEST</h1></b>
+
+                                                                    <p>
+                                                                  Date of Birth: 4/22/2003, Age: 13y<br><br>
+                                                                  Total Outstanding:&emsp; $237.10<br>
+                                                                  Insurance Outstanding:&emsp; $237.10<br>
+                                                                  Sent to Collections:&emsp; $0.00
+                                                                </p>
+                                                                  <div>
+                                                                      <span style = "float:right">current statement</span>
+                                                                    </div>
 
                                                                     
                                                                 </div>
