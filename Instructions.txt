@@ -2,3 +2,4 @@
 2.Username = admin
    password = admin@123
 3.make folder named 10_login in c drive->xampp->htdocs and paste all files in that.
+link should be this :-http://localhost/xampp/10_login/loginform.php
