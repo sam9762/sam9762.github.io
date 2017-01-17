@@ -1,3 +1,4 @@
-1. Login with loginform.php
+1.Login with loginform.php
 2.Username = admin
    password = admin@123
+3.make folder named 10_login in c drive->xampp->htdocs and paste all files in that.
