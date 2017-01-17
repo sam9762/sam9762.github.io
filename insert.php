@@ -107,7 +107,7 @@ foreach($checkbox1 as $chk1)
   </div>
                                                                   <h2>
                                                                     <b>
-                                                                   Ranbow Children's Clinic
+                                                                   Rainbow Children's Clinic
                                                                  </b>
                                                                </h2>
                                                                  <p>
